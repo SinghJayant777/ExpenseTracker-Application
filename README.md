@@ -2,7 +2,7 @@
 
 ## Description
 
-The Expense Tracker Application is a full-stack MERN (MongoDB, Express, React, Node.js) application designed to help users manage their finances by tracking their income and expenses. Users can perform CRUD operations over the database stored in MongoDB, allowing them to create, read, update, and delete their financial transactions. Additionally, the application provides a user-friendly graph for visualizing overall income and expenses. The dashboard includes various cards, such as Profile, All Transactions, and Recent History, displaying the user's financial data and recent transaction history.
+The Expense Tracker Application (KharchSense) is a full-stack MERN (MongoDB, Express, React, Node.js) application designed to help users manage their finances by tracking their income and expenses. Users can perform CRUD operations over the database stored in MongoDB, allowing them to create, read, update, and delete their financial transactions. Additionally, the application provides a user-friendly graph for visualizing overall income and expenses. The dashboard includes various cards, such as Profile, All Transactions, and Recent History, displaying the user's financial data and recent transaction history.
 
 ## Table of Contents
 
